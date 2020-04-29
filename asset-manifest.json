@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/venkatesh-profile/static/css/main.575f0ec9.chunk.css",
+    "main.js": "/venkatesh-profile/static/js/main.80a01063.chunk.js",
+    "main.js.map": "/venkatesh-profile/static/js/main.80a01063.chunk.js.map",
+    "runtime-main.js": "/venkatesh-profile/static/js/runtime-main.1250bae9.js",
+    "runtime-main.js.map": "/venkatesh-profile/static/js/runtime-main.1250bae9.js.map",
+    "static/js/2.c1de257a.chunk.js": "/venkatesh-profile/static/js/2.c1de257a.chunk.js",
+    "static/js/2.c1de257a.chunk.js.map": "/venkatesh-profile/static/js/2.c1de257a.chunk.js.map",
+    "index.html": "/venkatesh-profile/index.html",
+    "precache-manifest.ecd6debc40c311de4f09225f702f9e43.js": "/venkatesh-profile/precache-manifest.ecd6debc40c311de4f09225f702f9e43.js",
+    "service-worker.js": "/venkatesh-profile/service-worker.js",
+    "static/css/main.575f0ec9.chunk.css.map": "/venkatesh-profile/static/css/main.575f0ec9.chunk.css.map",
+    "static/js/2.c1de257a.chunk.js.LICENSE.txt": "/venkatesh-profile/static/js/2.c1de257a.chunk.js.LICENSE.txt",
+    "static/media/mypic.jpg": "/venkatesh-profile/static/media/mypic.cb633f7a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1250bae9.js",
+    "static/js/2.c1de257a.chunk.js",
+    "static/css/main.575f0ec9.chunk.css",
+    "static/js/main.80a01063.chunk.js"
+  ]
+}
