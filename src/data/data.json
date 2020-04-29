@@ -1,0 +1,61 @@
+{
+    "profiles":[
+        {
+            "basicInformation": {
+                "name" : "Yekkanti Venkatesh",
+                "role" : "Multi skill Trainer",
+                "email" : "venkatesh.y@apssdc.in",
+                "mobile": "9494699851",
+                "d":"Having 4+ years of experience in training students in engineering colleges throughout Andhra Pradesh on various technologies. Trained approximately 5000 students so far in short term & long term training programs. Good in technical mentoring, code reviews to deliver quality output. Involved in knowledge sharing and knowledge transfer to the new members of the team & Preparation of knowledge transfer documents. Participated in trainings offered in order to increase technical skills. Good in Oral and written communication skills. Taking ownership of any assigned work. Got consistent & good feedback from every training program"
+                       },
+            "education":[
+                {
+                    "degree":"B-Tech (ECE)",
+                    "institution": "Qis Institute Of Technology"
+                },
+                {
+                    "degree":"Intermediate",
+                    "institution":"SP Jr College"
+                },
+                {
+                    "degree":"SSC",
+                    "institution": "SVV High School"
+                }
+            ],
+            "skills":[
+              "Problem Solving using Python","Source Code Management using Git and Github","Data Analysis and Data Visualization with Python","Machine Learning with Python Web Development using python"
+            ],
+            "cert":[
+              "Python for Everybody Specialization from Coursera offered by Michigan University","Full Stack Web Developer Nanodegree from Udacity"
+            ]
+        },
+        {
+            "basicInformation": {
+                "name" : "Tarak Yekkanti",
+                "role" : "Multi skill Trainer",
+                "email" : "tarak.y@apssdc.in",
+                "mobile": "8978391774"
+            },
+            "education":[
+                {
+                    "degree":"B-Tech (CSE)",
+                    "institution": "EVM college of engineering and technology"
+                },
+                {
+                    "degree":"Intermediate",
+                    "institution":"Sri chaitanya college"
+                },
+                {
+                    "degree":"SSC",
+                    "institution": "Bhasyam public school"
+                }
+            ],
+            "skills":[
+              "Problem Solving using Python","Source Code Management using Git and Github","HTML5,CSS3,JS,Responsive web designing(RWD)","Data Analysis and Data Visualization with Python","Machine Learning with Python Web Development using python"
+            ],
+            "cert":[
+              "Front End Web Developer Nanodegree from Udacity","Python for Everybody Specialization from Coursera offered by Michigan University","HTML5,CSS3 and JS Certifications from udemy and sololearn e-learning websites"
+            ]
+        }
+    ]
+}
